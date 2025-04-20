@@ -12,3 +12,6 @@ The results obtained after rigorous experimentation can be observed in multiple 
 - **Presentation** : The file `Dueling Networks Overview and Results.pdf` provides a brief theoretical background, experimental setup, results, and observations in the project.
 - **GIFs** : After training is complete, 3 episodes are run to observe the agent in the particular environment. This folder contains GIFs as visualisations of each episode.
 - **Plots** : This directory contains plots corresponding to episode rewards during training. These plots are also discussed in the presentation.
+
+## Agent Performance : Pong-v5
+![](./GIFs/pong2.gif)
